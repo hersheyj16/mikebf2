@@ -1,0 +1,18 @@
+{
+    "name": "mikebf",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "be1f5810-720c-11e9-be4b-e1d414f2251c",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\jelian\\Documents\\PlayCode\\EchoBot1\\mikebf.bot"
+}
